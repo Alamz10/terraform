@@ -1,2 +1,2 @@
-# terraform-AzureDevOps
+# Terraform-AzureDevOps
 terraform projects
